@@ -4,7 +4,7 @@
 
 <h4 align="center"><a align="center" href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DenisOffor&theme=dark" alt="GitHub Streak" /></a></h4>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisOffor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==DenisOffor)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DenisOffor/DenisOffor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
