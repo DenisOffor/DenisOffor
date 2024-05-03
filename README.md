@@ -13,7 +13,7 @@
 
 - 📫 How to reach me:
 -  telegram: [@click](https://t.me/debisbibanov)
--  vk:       [@click]([https://t.me/debisbibanov](https://vk.com/denislobanov1))   
+-  vk:       [@click](https://vk.com/denislobanov1)   
 <p align="left">
 </p>
 
