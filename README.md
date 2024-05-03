@@ -1,26 +1,27 @@
-<h1 align="center">Hi there, I'm Denis</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">I am student, which trying to become an embedded engineer</h3>
 
-<h4 align="center"><a align="center" href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DenisOffor&theme=dark" alt="GitHub Streak" /></a></h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=denisoffor&label=Profile%20views&color=0e75b6&style=flat" alt="denisoffor" /> </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisOffor&theme=dark)
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisOffor&theme=dark)
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenisOffor&theme=dark)
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisOffor&theme=dark)
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DenisOffor&theme=dark&utcOffset=8)
+- 🔭 I’m currently working on **implementation of I2C on verilog**
 
-<!--
-**DenisOffor/DenisOffor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **FPGA, STM32 and different sensors**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **....Am I?**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **....Am I?**
+
+- 📫 How to reach me:
+- **denlobanov5@mail.ru
+-  telegram username: @debisbibanov
+-  vk username:       @denislobanov1**      
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denisoffor&show_icons=true&theme=dark&locale=en&layout=compact" alt="denisoffor" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denisoffor&show_icons=true&theme=dark&locale=en" alt="denisoffor" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denisoffor&theme=dark" alt="denisoffor" /></p>
