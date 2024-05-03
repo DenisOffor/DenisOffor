@@ -12,11 +12,8 @@
 - 🤝 I’m looking for help with **....Am I?**
 
 - 📫 How to reach me:
-- **denlobanov5@mail.ru
--  telegram username: @debisbibanov
--  vk username:       @denislobanov1**      
-
-<h3 align="left">Connect with me:</h3>
+-  telegram: [@debisbibanov](https://t.me/debisbibanov)
+-  vk:       https://vk.com/denislobanov1   
 <p align="left">
 </p>
 
