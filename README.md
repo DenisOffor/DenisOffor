@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am student, which trying to become embedded engineer</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?DenisOffor=DenverCoder1)](https://git.io/streak-stats)
 <!--
 **DenisOffor/DenisOffor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
