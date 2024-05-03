@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Denis)](https://git.io/typing-svg)
+<h1 align="center">Hi there, I'm Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am student, which trying to become embedded engineer</h3>
+<h3 align="center">I am student, which trying to become an embedded engineer</h3>
 
-<h4 align="center"><a align="center" href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DenisOffor&theme=dark" alt="GitHub Streak" /></a></h4>
+<a align="center" href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DenisOffor&theme=dark" alt="GitHub Streak" /></a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisOffor&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisOffor&theme=dark)
