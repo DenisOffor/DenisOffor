@@ -4,7 +4,7 @@
 
 <h4 align="center"><a align="center" href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DenisOffor&theme=dark" alt="GitHub Streak" /></a></h4>
 
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisOffor&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisOffor&theme=dark)
       ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisOffor&theme=dark)
       ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenisOffor&theme=dark)
       ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisOffor&theme=dark)
